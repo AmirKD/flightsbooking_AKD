@@ -11,8 +11,7 @@
 	</run>
 </groups>
 <classes>
-	<class name="de.expedia.TestNG_Grouping">
-	</class>
+	<class name="de.expedia.TestNG_Grouping"></class>
 </classes>
 </test>
 </suite>
