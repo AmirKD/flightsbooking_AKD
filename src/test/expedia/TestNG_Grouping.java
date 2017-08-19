@@ -1,4 +1,4 @@
-package de.expedia;
+package expedia;
 
 import org.testng.annotations.*;
 

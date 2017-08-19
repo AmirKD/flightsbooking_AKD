@@ -1,4 +1,4 @@
-package de.pageclasses;
+package pageclasses;
 
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;

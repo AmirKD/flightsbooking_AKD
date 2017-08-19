@@ -1,4 +1,4 @@
-package de.pageclasses;
+package pageclasses;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
